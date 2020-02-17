@@ -1,0 +1,3 @@
+[submodule "SFND_Lidar_Obstacle_Detection"]
+	path = SFND_Lidar_Obstacle_Detection
+	url = https://github.com/seekdestiny/SFND_Lidar_Obstacle_Detection.git
