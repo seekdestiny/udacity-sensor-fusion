@@ -4,3 +4,6 @@
 [submodule "open_cv_exercise"]
 	path = open_cv_exercise
 	url = https://github.com/seekdestiny/open_cv_exercise.git
+[submodule "TTC_lidar"]
+	path = TTC_lidar
+	url = https://github.com/seekdestiny/TTC_lidar.git
