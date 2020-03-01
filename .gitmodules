@@ -13,3 +13,6 @@
 [submodule "gradient_filtering"]
 	path = gradient_filtering
 	url = https://github.com/seekdestiny/gradient_filtering.git
+[submodule "cornerness_harris"]
+	path = cornerness_harris
+	url = https://github.com/seekdestiny/cornerness_harris.git
