@@ -7,3 +7,6 @@
 [submodule "TTC_lidar"]
 	path = TTC_lidar
 	url = https://github.com/seekdestiny/TTC_lidar.git
+[submodule "TTC_camera"]
+	path = TTC_camera
+	url = https://github.com/seekdestiny/TTC_camera.git
