@@ -10,3 +10,6 @@
 [submodule "TTC_camera"]
 	path = TTC_camera
 	url = https://github.com/seekdestiny/TTC_camera.git
+[submodule "gradient_filtering"]
+	path = gradient_filtering
+	url = https://github.com/seekdestiny/gradient_filtering.git
