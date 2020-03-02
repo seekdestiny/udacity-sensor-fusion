@@ -19,3 +19,6 @@
 [submodule "detect_keypoints"]
 	path = detect_keypoints
 	url = https://github.com/seekdestiny/detect_keypoints.git
+[submodule "describe_keypoints"]
+	path = describe_keypoints
+	url = https://github.com/seekdestiny/describe_keypoints.git
