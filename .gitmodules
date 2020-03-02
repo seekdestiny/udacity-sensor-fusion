@@ -22,3 +22,6 @@
 [submodule "describe_keypoints"]
 	path = describe_keypoints
 	url = https://github.com/seekdestiny/describe_keypoints.git
+[submodule "descriptor_matching"]
+	path = descriptor_matching
+	url = https://github.com/seekdestiny/descriptor_matching.git
