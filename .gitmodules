@@ -16,3 +16,6 @@
 [submodule "cornerness_harris"]
 	path = cornerness_harris
 	url = https://github.com/seekdestiny/cornerness_harris.git
+[submodule "detect_keypoints"]
+	path = detect_keypoints
+	url = https://github.com/seekdestiny/detect_keypoints.git
