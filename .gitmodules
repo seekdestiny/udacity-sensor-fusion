@@ -25,3 +25,6 @@
 [submodule "descriptor_matching"]
 	path = descriptor_matching
 	url = https://github.com/seekdestiny/descriptor_matching.git
+[submodule "SFND_2D_Feature_Matching"]
+	path = SFND_2D_Feature_Matching
+	url = https://github.com/seekdestiny/SFND_2D_Feature_Matching.git
