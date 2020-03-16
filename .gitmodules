@@ -28,3 +28,6 @@
 [submodule "SFND_2D_Feature_Matching"]
 	path = SFND_2D_Feature_Matching
 	url = https://github.com/seekdestiny/SFND_2D_Feature_Matching.git
+[submodule "lidar_to_camera"]
+	path = lidar_to_camera
+	url = https://github.com/seekdestiny/lidar_to_camera.git
