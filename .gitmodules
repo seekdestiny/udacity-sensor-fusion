@@ -31,3 +31,6 @@
 [submodule "lidar_to_camera"]
 	path = lidar_to_camera
 	url = https://github.com/seekdestiny/lidar_to_camera.git
+[submodule "detect_objects"]
+	path = detect_objects
+	url = https://github.com/seekdestiny/detect_objects.git
