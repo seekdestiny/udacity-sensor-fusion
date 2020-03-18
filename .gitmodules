@@ -34,3 +34,6 @@
 [submodule "detect_objects"]
 	path = detect_objects
 	url = https://github.com/seekdestiny/detect_objects.git
+[submodule "cluster_with_roi"]
+	path = cluster_with_roi
+	url = https://github.com/seekdestiny/cluster_with_roi.git
