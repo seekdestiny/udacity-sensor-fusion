@@ -37,3 +37,6 @@
 [submodule "cluster_with_roi"]
 	path = cluster_with_roi
 	url = https://github.com/seekdestiny/cluster_with_roi.git
+[submodule "SFND_3D_Object_Tracking"]
+	path = SFND_3D_Object_Tracking
+	url = https://github.com/seekdestiny/SFND_3D_Object_Tracking.git
