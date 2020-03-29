@@ -40,3 +40,6 @@
 [submodule "SFND_3D_Object_Tracking"]
 	path = SFND_3D_Object_Tracking
 	url = https://github.com/seekdestiny/SFND_3D_Object_Tracking.git
+[submodule "udacity-radar-sensor-fusion"]
+	path = udacity-radar-sensor-fusion
+	url = https://github.com/seekdestiny/udacity-radar-sensor-fusion.git
