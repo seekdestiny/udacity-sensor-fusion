@@ -43,3 +43,6 @@
 [submodule "udacity-radar-sensor-fusion"]
 	path = udacity-radar-sensor-fusion
 	url = https://github.com/seekdestiny/udacity-radar-sensor-fusion.git
+[submodule "SFND_Unsented_Kalman_Filter"]
+	path = SFND_Unsented_Kalman_Filter
+	url = https://github.com/seekdestiny/SFND_Unsented_Kalman_Filter.git
